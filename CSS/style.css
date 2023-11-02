@@ -64,16 +64,22 @@ footer {
     text-align: center;
 }
 img {
-    transition: all 0.3s ease-in-out;
+    
     padding: 2px;
     border-radius: 10px;
   }
-  img:hover {
+ 
+  .privacy-policy{
+    text-align: center;
+   
+  }
+  #team-img{
+   text-align: center;
+  }
+ #tour-img{
+     text-align: center;
+ }
+  /* img:hover {
     transform: scale(1.1);
     opacity: 0.8;
-  }
-  .privacy-policy{
-   
-   padding-inline-end: 50px;
-  }
- 
+  } */
